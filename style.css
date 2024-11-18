@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .container {
     margin: 100px 0 0 200px;
     width: 70%;
@@ -19,17 +19,3 @@
 .container.img:hover{
     width: 25%;
 }
-=======
-
-
-body {
-    background-image: url('man-in-water.png');
-    background-size: contain;      
-    background-position: right center ; 
-    background-attachment: fixed;
-    background-repeat: no-repeat; 
-    height: 100vh; 
-    margin: 0;
-}
-
->>>>>>> 3d92876abce158af18f239679c7c5c759a21f756
